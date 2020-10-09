@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "387913081332",
+    "firebase_url": "https://public-bus-tracker-c6937.firebaseio.com",
+    "project_id": "public-bus-tracker-c6937",
+    "storage_bucket": "public-bus-tracker-c6937.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:387913081332:android:1da36c0c66748f181a59a1",
+        "android_client_info": {
+          "package_name": "com.bustracking.myschool.bustracker"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "387913081332-vrnpdbnlorlkmq0056ngu1fb5j74a9cl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCzPo6RlE1jW002g2k6LkyNXDUrRNf18tQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "387913081332-vrnpdbnlorlkmq0056ngu1fb5j74a9cl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
